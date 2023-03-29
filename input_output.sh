@@ -2,6 +2,10 @@
 
 # Experiments using inputs / outputs
 
+# Notes
+# - When reading txt file line by line, the last line 
+#   must be empty for last element to be read
+
 echo "#1. Read file line by line"
 while read -r line
 do
