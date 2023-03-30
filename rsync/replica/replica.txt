@@ -1,0 +1,1 @@
+Filename that serves as a flag to confirm this volume is the replica drive.
